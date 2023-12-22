@@ -1,0 +1,21 @@
+John,Doe,GroupA,Math,101,nothing
+Jane,Smith,GroupB,Physics,102,nothing2
+Michael,Johnson,GroupA,Chemistry,103,nothing
+Emily,Williams,GroupC,Computer Sh,104,nothing
+Avery,Brown,GroupB,Biology,105,nothing
+Olivia,Davis,GroupC,Math,106,nothing
+Matthew,Miller,GroupA,Physics,107,nothing
+Sophia,Jones,GroupB,Chemistry,108,nothing
+William,Wilson,GroupC,Computer Sm,109,nothing
+Emma,Taylor,GroupA,Biology,110,nothing
+Ethan,Anderson,GroupB,Math,111,nothing
+Ava,Thomas,GroupC,Physics,112,nothing
+Noah,Hall,GroupA,Chemistry,113,Anothing
+Isabella,Allen,GroupB,Computer Sr,114,nothing4
+Liam,Green,GroupC,Biology,115,nothing
+Mia,Lee,GroupA,Math,116,nothing
+James,Turner,GroupB,Physics,117,nothing
+Avery,Hill,GroupC,Chemistry,118,nothing
+Logan,Scott,GroupA,Computer Sw,119,nothing
+Ella,Carter,GroupB,Biology,120,nothing
+ilja,Prihodjko,wf,fff,11111,nothing
